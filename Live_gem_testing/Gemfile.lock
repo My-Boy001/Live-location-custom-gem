@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    live_location (0.1.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  live_location
+
+BUNDLED WITH
+   2.6.9
